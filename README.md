@@ -2,6 +2,5 @@
 - 👯 I’m looking to collaborate on Developer Tooling.
 - 🤔 I’m looking for help with Tools collaborations.
 - 💬 Ask me about anything.
-- 📫 How to reach me: _karasunedotco on 𝕏 (Twitter).
-- Insights and technical breakdowns on my blog:  
-[karasune.vercel.app/posts](https://karasune.vercel.app/posts)
+- 📫 How to reach me: _karasune_yw on 𝕏.
+- Insights and technical breakdowns on my blog: [karasune.vercel.app/posts (https://karasune.vercel.app/posts)
