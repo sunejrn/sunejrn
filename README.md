@@ -3,4 +3,3 @@
 - 🤔 I’m looking for help with Tools collaborations.
 - 💬 Ask me about anything.
 - 📫 How to reach me: _karasune_yw on 𝕏.
-- Insights and technical breakdowns on my blog: [karasune.vercel.app/posts (https://karasune.vercel.app/posts)
