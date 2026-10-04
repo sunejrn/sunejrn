@@ -2,4 +2,4 @@
 - 👯 I’m looking to collaborate on Developer Tooling.
 - 💻 I’m open to remote jobs and connections.
 - 💬 Ask me about anything.
-- 📫 How to reach me: @sunejunior on 𝕏.
+- 📫 How to reach me: @sunejrn on 𝕏.
