@@ -1,5 +1,3 @@
-- 🔭 I’m currently working on a Side Project.
-- 👯 I’m looking to collaborate on Developer Tooling.
-- 💻 I’m open to remote jobs and connections.
-- 💬 Ask me about anything.
+- 🔭 Currently working on a Side Project.
+- 💻 Open to remote jobs and connections.
 - 📫 How to reach me: @sunejrn on 𝕏.
